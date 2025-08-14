@@ -108,13 +108,12 @@ python app.py
 
 📸  screenshots 
 -----------------
-before - image
---------------
-![before resize Screenshot](images/c1.png)
 
-after - image
--------------
-![after resize Screenshot](images/c3.png).
+
+![before resize Screenshot](image/kiruba.png)
+
+
+![after resize Screenshot](image/login.png).
 
 
 Main Interface:
