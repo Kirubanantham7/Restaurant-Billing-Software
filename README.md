@@ -113,7 +113,28 @@ python app.py
 ![before resize Screenshot](image/kiruba.png)
 
 
+
 ![after resize Screenshot](image/login.png).
+
+
+
+![after resize Screenshot](image/main.png).
+
+
+
+![after resize Screenshot](image/sales_report_day.png).
+
+
+
+![after resize Screenshot](image/sales_report_month.png).
+
+
+
+![after resize Screenshot](image/sales_report_week.png).
+
+
+
+![after resize Screenshot](image/bill_perview.png).
 
 
 Main Interface:
