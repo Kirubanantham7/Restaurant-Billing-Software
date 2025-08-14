@@ -1,0 +1,22 @@
+{
+  "order_id": 1,
+  "date": "2025-08-11 16:08:32",
+  "items": [
+    {
+      "name": "Burger",
+      "price": 120.0,
+      "quantity": 2
+    },
+    {
+      "name": "Pizza",
+      "price": 250.0,
+      "quantity": 1
+    }
+  ],
+  "totals": {
+    "subtotal": 490.0,
+    "discount": 60.0,
+    "tax": 90.0,
+    "final_total": 520.0
+  }
+}

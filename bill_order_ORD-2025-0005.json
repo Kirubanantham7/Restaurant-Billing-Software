@@ -1,0 +1,37 @@
+{
+  "order_id": "ORD-2025-0005",
+  "date": "2025-08-13 19:28:45",
+  "items": [
+    {
+      "name": "Chicken Biryani",
+      "price": 220.0,
+      "quantity": 3
+    },
+    {
+      "name": "Onion Pakora",
+      "price": 50.0,
+      "quantity": 2
+    },
+    {
+      "name": "Fried Rice",
+      "price": 140.0,
+      "quantity": 2
+    },
+    {
+      "name": "Tandoori Chicken",
+      "price": 210.0,
+      "quantity": 1
+    },
+    {
+      "name": "Ice Cream (Scoop)",
+      "price": 60.0,
+      "quantity": 5
+    }
+  ],
+  "totals": {
+    "subtotal": 1550.0,
+    "discount": 50.0,
+    "tax": 74.2,
+    "final_total": 1574.2
+  }
+}

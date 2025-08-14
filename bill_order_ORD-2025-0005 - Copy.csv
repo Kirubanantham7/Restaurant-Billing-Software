@@ -1,0 +1,11 @@
+Item,Quantity,Price,Total
+Chicken Biryani,3,220.0,660.0
+Onion Pakora,2,50.0,100.0
+Fried Rice,2,140.0,280.0
+Tandoori Chicken,1,210.0,210.0
+Ice Cream (Scoop),5,60.0,300.0
+
+Subtotal,1550.0
+Discount,50.0
+Tax,74.2
+Final Total,1574.2

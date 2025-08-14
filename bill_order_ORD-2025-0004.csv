@@ -1,0 +1,10 @@
+Item,Quantity,Price,Total
+Burger,2,120.0,240.0
+Pizza,1,250.0,250.0
+Coke,2,50.0,100.0
+Fries,2,80.0,160.0
+
+Subtotal,750.0
+Discount,50.0
+Tax,38.9
+Final Total,738.9
